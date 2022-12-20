@@ -1,0 +1,6 @@
+name: ForceResourcePack
+version: '${project.version}'
+main: me.levitate.forceresourcepack.ForceResourcePack
+api-version: 1.19
+authors: [ Levitate ]
+description: A plugin that makes the players be forced to accept the server's resource pack, if they don't it kicks them.

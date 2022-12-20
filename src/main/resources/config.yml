@@ -1,0 +1,5 @@
+# The download url of your resource pack.
+url: ""
+
+# The kick message
+kick-msg: "&cYou must accept the resource pack to join the server."
